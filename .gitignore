@@ -1,0 +1,6 @@
+tests/__pycache__/
+.DS_Store
+thesis_models/__pycache__
+thesis_models.egg-info/
+.idea/
+venv/

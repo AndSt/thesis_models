@@ -19,10 +19,10 @@ entity alignment problem. Here, the user is the external entity.
 
 The high level model architecture looks as follows:
 
-![PHATN-model](data/models_phatn_overview)
+![PHATN-model](data/models_phatn_overview.png)
 
 Overview over the model architecture of PHATN. By X_G we denote graph node embeddings and
 by X_T embeddings of external entities.
-In the first attention layer, the external element t attends to each node in a Path
-and in the second attention layer, the external element t attends to each
+In the first attention layer, the external entity attends to each node in a Path
+and in the second attention layer, the external entity attends to each
 path embedding.
